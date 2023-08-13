@@ -1,0 +1,15 @@
+[import](common.lg)
+
+# SendActivity_c2KT6w()
+[Activity
+    Text = ${SendActivity_c2KT6w_text()}
+]
+
+# SendActivity_c2KT6w_text()
+- Si tenemos el producto que busca
+# SendActivity_aiYr39()
+[HeroCard
+ title = Regla Faber Castell
+ text = Regla Plástico 20 cm Transparente //CI
+ images = https://comercial-li.com.pe/cdn/shop/products/regla-faber-castell-815-20-plastico-20-cm-unidad-faber-castell_1024x1024.jpg?v=1593635572
+]

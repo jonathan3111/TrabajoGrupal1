@@ -1,0 +1,15 @@
+[import](common.lg)
+
+# SendActivity_q6GW72()
+[Activity
+    Text = ${SendActivity_q6GW72_text()}
+]
+
+# SendActivity_q6GW72_text()
+- Si tenemos el producto que busca
+# SendActivity_T03icB()
+[HeroCard
+ title = Plumones Faber Castell
+ text = Plumones Caja 12un
+ images = https://plazavea.vteximg.com.br/arquivos/ids/289423-512-512/plumones-faber-castell-fiesta-caja-12un.jpg
+]

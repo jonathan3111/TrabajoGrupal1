@@ -1,0 +1,39 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "Et7JC5",
+    "name": "respuesta3",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "si tenemos",
+        "description": "",
+        "id": "XutIVa"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "JRXdvD"
+          },
+          "activity": "${SendActivity_JRXdvD()}"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "NaGdGL"
+          },
+          "activity": "${SendActivity_NaGdGL()}"
+        }
+      ]
+    }
+  ],
+  "generator": "respuesta3.lg",
+  "recognizer": "respuesta3.lu.qna",
+  "id": "respuesta3"
+}

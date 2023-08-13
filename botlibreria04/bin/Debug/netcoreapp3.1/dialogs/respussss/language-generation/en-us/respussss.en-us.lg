@@ -1,0 +1,10 @@
+[import](common.lg)
+
+# SendActivity_SDbAYd()
+[Activity
+    Text = ${SendActivity_SDbAYd_text()}
+    SuggestedActions = cuaderno | goma | colores | plumones | regla
+]
+
+# SendActivity_SDbAYd_text()
+- ¿Que otra cosa desea?

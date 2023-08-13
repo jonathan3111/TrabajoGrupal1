@@ -1,0 +1,15 @@
+[import](common.lg)
+
+# SendActivity_JRXdvD()
+[Activity
+    Text = ${SendActivity_JRXdvD_text()}
+]
+
+# SendActivity_JRXdvD_text()
+- Si tenemos el producto que busca
+# SendActivity_NaGdGL()
+[HeroCard
+ title = Colores Faber Castell
+ text = Colores Caja 12un
+ images = https://plazavea.vteximg.com.br/arquivos/ids/288212-450-450/42404.jpg?v=637158439853870000
+]
